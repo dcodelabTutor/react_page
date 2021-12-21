@@ -3,6 +3,8 @@ import { Logo, Menu } from './components/Header.js';
 import Panel from './components/Panel.js';
 import Footer from './components/Footer.js';
 
+//npm install gh-pages --save-dev
+
 
 
 function App() {
