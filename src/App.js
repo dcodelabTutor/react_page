@@ -5,6 +5,8 @@ import Footer from './components/Footer.js';
 
 //npm install gh-pages --save-dev
 
+//npm run deploy
+
 
 
 function App() {
